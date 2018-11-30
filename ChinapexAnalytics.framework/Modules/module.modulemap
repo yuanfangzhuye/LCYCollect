@@ -1,0 +1,6 @@
+framework module ChinapexAnalytics {
+  umbrella header "ChinapexAnalytics.h"
+
+  export *
+  module * { export * }
+}
